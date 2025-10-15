@@ -28,7 +28,7 @@ export default function Footer() {
             <a href="#" className="text-primary-hover transition">
               <FaFacebookF />
             </a>
-            <a href="#" className="text-primary-hover transition">
+            <a href="https://www.instagram.com/lytewe1ght/?hl=en" className="text-primary-hover transition">
               <FaInstagram />
             </a>
             <a href="#" className="text-primary-hover transition">
@@ -97,7 +97,7 @@ export default function Footer() {
           <ul className="space-y-3 text-sm">
             <li className="flex items-center space-x-2">
               <FiPhone className="text-primary " />
-              <span>+12 (307) 535-0133</span>
+              <span>07710 479623</span>
             </li>
             <li className="flex items-center space-x-2">
               <FiMail className="text-primary " />
@@ -106,9 +106,9 @@ export default function Footer() {
             <li className="flex items-start space-x-2">
               <FiMapPin className="text-primary  mt-1" />
               <span>
-                6391 Elgin St. Celina,
+                75 Mosley St, 
                 <br />
-                Delaware 10299
+                Manchester M2 3HR, UK
               </span>
             </li>
           </ul>
@@ -118,7 +118,7 @@ export default function Footer() {
       {/* Bottom Bar */}
       <div className="mt-10 border-t border-gray-700 pt-6 text-center text-sm text-gray-400">
         © 2025 All Right Reserved by{" "}
-        <span className="text-primary ">Grabui</span> | Powered by{" "}
+        <span className="text-primary ">Lyteweight Performance</span> | Powered by{" "}
         <span className="text-primary">Ansely</span>
       </div>
     </footer>
