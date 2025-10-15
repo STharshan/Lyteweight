@@ -31,11 +31,10 @@ const HeroSection = () => {
             <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-7xl font-extrabold leading-tight">
               Lyteweight Performance
               <br />
-              <span className="text-white">Peak Results.</span>
             </h1>
 
             <p className="text-gray-300 max-w-2xl mx-auto mt-4 text-base sm:text-lg md:text-xl">
-              Welcome to Peak Fitness, where every workout propels you toward
+              Welcome to Lyteweight Performance, where every workout propels you toward
               the summit of your fitness goals.
             </p>
 
@@ -43,7 +42,7 @@ const HeroSection = () => {
               <a href="/#contact">
                 <button className="border-2 border-primary bg-primary-hover text-white hover:text-black px-6 py-3 rounded-full flex items-center gap-2 group hover:bg-primary transition font-semibold">
                   <span className="transition-transform duration-300 text-sm lg:text-base group-hover:-translate-x-1 group-active:-translate-x-1">
-                    Let's Reach Your Peak
+                    Let's Reach
                   </span>
                   <FiArrowRight className="transition-transform duration-300 group-hover:translate-x-1 group-active:translate-x-1 mt-1" />
                 </button>

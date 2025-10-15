@@ -29,7 +29,7 @@ const AboutSection = () => {
               data-aos-delay="150"
               className="text-gray-300 text-base md:text-lg leading-relaxed mb-4"
             >
-              At Lyteweight, We believe in elevating more than just weights, we're here to inspire a lifestyle of strength, health, and overall well- being.
+              At Lyteweight Performance, We believe in elevating more than just weights, we're here to inspire a lifestyle of strength, health, and overall well- being.
             </p>
 
             <p
@@ -42,7 +42,7 @@ const AboutSection = () => {
 
             <button className="border-2 border-primary bg-primary-hover text-white px-8 py-3 rounded-xl flex items-center gap-2 group hover:text-black transition font-semibold">
               <span className="transition-transform duration-300 text-sm lg:text-base group-hover:-translate-x-1 group-active:-translate-x-1">
-                About Peak
+                About Us
               </span>
             </button>
           </div>
