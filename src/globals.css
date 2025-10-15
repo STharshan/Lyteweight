@@ -1,5 +1,5 @@
 :root {
-   --color-primary: yellow;
+   --color-primary: rgb(0, 162, 255);
 }
 
 .text-primary { color: var(--color-primary) !important; }

@@ -32,9 +32,9 @@ const Navbar = () => {
         {/* Logo */}
         <div className="flex items-center gap-3">
           <img
-            src="/logo.jpg"
+            src="/logo.png"
             alt="RS Mobile Services Logo"
-            className="w-36 h-12 object-contain"
+            className="w-76 h-12 object-contain"
           />
         </div>
 
